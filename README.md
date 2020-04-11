@@ -33,10 +33,10 @@ cd C:\Users\MATHEUS\Desktop\SAMP-Master
 D:\android-ndk-r14\ndk-build
 ```
 ## Exemplo em foto:
-![alt text](https://raw.githubusercontent.com/MTHS1901/SAMP-MOBILE/master/ex-compile.png)
+![alt text](https://1.bp.blogspot.com/-QwJidaE2J20/XpJTdn6gcOI/AAAAAAAAPbI/pFsRkSvv1ccp19oWkEtXS8FDCtg3IT2PACLcBGAsYHQ/s1600/ex-compile.png)
 ### Observação: apos compilar a libsamp.so fica dentro do diretorio "SAMP-Master/libs/armeabi-v7a/libsamp.so"
 ## Exemplo em foto:
-![alt text](https://raw.githubusercontent.com/MTHS1901/SAMP-MOBILE/master/ex-compile2.png)
+![alt text](https://2.bp.blogspot.com/-XQJS3OzEp4U/XpJTehaxQRI/AAAAAAAAPbM/byNDtMguyeQVzvgFw0Gj-_feAp5rOyz0QCLcBGAsYHQ/s1600/ex-compile2.png)
 # COMO COMPILAR O APK
 ## Programas necessarios:
 ##### ﹥ Easy APK Tool: https://forum.xda-developers.com/android/software-hacking/tool-apk-easy-tool-v1-02-windows-gui-t3333960
