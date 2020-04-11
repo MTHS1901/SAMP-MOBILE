@@ -4,6 +4,7 @@
 ##### ﹥ Possibilidade de alterar o servidor, busque por "// IP SERVIDOR" dentro de main.ccp.
 ##### ﹥ Nova tela de carregamento com logo oficial do SAMP.
 ##### ★ Essa é minha primeira BUILD publica, não sei se vou continuar o projeto, pois é muito complicado e limitado.
+##### ★ BUILD ORIGINAL: https://github.com/4x11/build69
 ---------- # # # # ----------
 # TUTORIAL DE COMPILAÇÃO NO WINDOWS
 ### Não é algo pra leigos, exige um certo conhecimento para executar o procedimento.
