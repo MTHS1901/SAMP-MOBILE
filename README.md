@@ -10,7 +10,6 @@
 ## Programas necessarios:
 ##### Android NDK 14 #necessario para compilação# (https://developer.android.com/ndk/downloads/older_releases#ndk-14b-downloads)
 ##### Notepad++ #necessario para edição/programação dos arquivos .ccp# (https://notepad-plus-plus.org/downloads/)
-##### O Ideal seria utilizar o Visual Studio, porem como os arquivos são compilados fora do Visual Studio, você pode editar os arquivos fora do Visual Studio tambem.
 # COMO COMPILAR
 ##### Essa é a forma como eu compilo, mais existe outras formas, crie comandos .cmd para executar isso automaticamente para você e economize seu tempo, primeiramente acesse a pasta do ANDROID-NDK-R14, dentro da pasta "BUILD" tem um arquivo com nome "NDK-BUILD.cmd", edite o arquivo com BLOCO DE NOTAS e adicione um "PAUSE" no final, igual mostra abaixo, isso será essencial na hora de compilar, pois toda vez que é compilado abre uma tela no PROMPT DE COMANDO rapidamente, as vezes acontece erros na compilação e você não vai ver a tempo e o comando "PAUSE" vai pausar o PROMPT DE COMANDO fazendo com que seja possivel você ver os erros.
 ```
