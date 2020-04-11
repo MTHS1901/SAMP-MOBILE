@@ -11,7 +11,7 @@
 ##### Android NDK 14 #necessario para compilação# (https://developer.android.com/ndk/downloads/older_releases#ndk-14b-downloads)
 ##### Notepad++ #necessario para edição/programação dos arquivos .ccp# (https://notepad-plus-plus.org/downloads/)
 # COMO COMPILAR
-##### Essa é a forma como eu compilo, mais existe outras formas, crie comandos .cmd para executar isso automaticamente para você e economize seu tempo, primeiramente acesse a pasta do ANDROID-NDK-R14, dentro da pasta "BUILD" tem um arquivo com nome "NDK-BUILD.cmd", edite o arquivo com BLOCO DE NOTAS e adicione um "PAUSE" no final, igual mostra abaixo, isso será essencial na hora de compilar, pois toda vez que é compilado abre uma tela no PROMPT DE COMANDO rapidamente, as vezes acontece erros na compilação e você não vai ver a tempo e o comando "PAUSE" vai pausar o PROMPT DE COMANDO fazendo com que seja possivel você ver os erros.
+##### É assim que eu compilo, mas existem outras maneiras de compilar, criar comandos .cmd para executar isso automaticamente para você vai economizar seu tempo, primeiro de tudo acesse a pasta "ANDROID-NDK-R14" dentro da pasta "BUILD" existe um arquivo com um nome "NDK-BUILD.cmd", edite o arquivo com o NOTEPAD e adicione uma "PAUSE" no final, como mostrado abaixo, isso será essencial ao compilar, porque toda vez que é compilado abre rapidamente uma tela no PROMPT DE COMANDO, às vezes há erros na compilação e você não o verá a tempo e o comando "PAUSE" fará uma pausa no PROMPT DE COMANDO, possibilitando a visualização dos erros.
 ```
 @echo off
 set NDK_ROOT=%~dp0\..
@@ -22,7 +22,7 @@ set PREBUILT_PATH=%NDK_ROOT%\prebuilt\windows
 "%PREBUILT_PATH%\bin\make.exe" -f "%NDK_ROOT%\build\core\build-local.mk" SHELL=cmd %*
 PAUSE
 ```
-## Arquivo .CMD que deve ser criado para fazer a compilação.
+## Arquivo .CMD que deve ser criado para fazer a compilação rapida.
 ```
 #PRIMEIRA LINHA# cd "diretorio onde a BUILD esta descompactada"
 #SEGUNDA LINHDA# "diretorio do Android NDK com "\ndk-build" no final"
@@ -30,7 +30,7 @@ PAUSE
 ## Exemplo:
 ```
 cd C:\Users\MATHEUS\Desktop\SAMP-Master
-C:\android-ndk-r14\ndk-build
+D:\android-ndk-r14\ndk-build
 ```
 ## Exemplo em foto:
 ![alt text](https://raw.githubusercontent.com/MTHS1901/SAMP-MOBILE/master/ex-compile.png)
