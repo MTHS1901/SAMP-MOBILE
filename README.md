@@ -2,7 +2,6 @@
 #### Mudanças feitas por mim
 ##### ﹥ Jogo rodar em 60FPS e Exibir a taxa de FPS dentro do jogo.
 ##### ﹥ Possibilidade de alterar o servidor, busque por "// IP SERVIDOR" dentro de main.ccp.
-##### ﹥ Nova tela de carregamento com logo oficial do SAMP.
 ##### ★ Essa é minha primeira BUILD publica, não sei se vou continuar o projeto, pois é muito complicado e limitado.
 ##### ★ BUILD ORIGINAL: https://github.com/4x11/build69
 ---------- # # # # ----------
