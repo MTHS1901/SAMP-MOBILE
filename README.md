@@ -40,7 +40,7 @@ D:\android-ndk-r14\ndk-build
 # COMO COMPILAR O APK
 ## Programas necessarios:
 ##### ﹥ Easy APK Tool: https://forum.xda-developers.com/android/software-hacking/tool-apk-easy-tool-v1-02-windows-gui-t3333960 (ferramenta para compilar/descompilar/instalar/registrar arquivos .apk)
-##### ﹥ APK do SAMP na BUILD 6.9: https://www.androgamer.org/samp-mobile-6-9/ ou https://github.com/MTHS1901/SAMP-MOBILE/blob/master/SAMP_MTHS1901_b.0.0.1.apk (ambas compativel com o GTA LITE)
+##### ﹥ APK do SAMP na BUILD 6.9: https://www.androgamer.org/samp-mobile-6-9/ ou https://github.com/MTHS1901/SAMP-MOBILE/raw/master/SAMP_MTHS1901_b.0.0.1.apk (ambas compativel com o GTA LITE)
 ##### ﹥ ADB Minimal Fastboot: https://forum.xda-developers.com/showthread.php?t=2317790 (para conseguir instalar o APK via cabo USB)
 ##### Use o programa para compilar o APK, copie a "libsamp.so" modificada para a pasta "1-Decompiled APKs" do Easy APK Tool, e compile o APK pelo programa.
 ## DUVIDAS? ENTRE EM CONTATO: 
