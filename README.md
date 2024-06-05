@@ -6,7 +6,6 @@
 ##### ★ BUILD ORIGINAL: https://github.com/4x11/build69
 ---------- # # # # ----------
 # TUTORIAL DE COMPILAÇÃO NO WINDOWS
-### Não é algo pra leigos, exige um certo conhecimento para executar o procedimento.
 ## Programas necessarios:
 ##### ﹥ Android NDK 14 #necessario para compilação# (https://developer.android.com/ndk/downloads/older_releases#ndk-14b-downloads)
 ##### ﹥ Notepad++ #necessario para edição/programação dos arquivos .ccp# (https://notepad-plus-plus.org/downloads/)
